@@ -1,3 +1,5 @@
 <?php
-    echo "lolipop";
+    echo "lolipop"; //affichage de lolipop
+
+
 ?>
